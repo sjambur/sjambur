@@ -2,7 +2,7 @@
 - 👀 I’m interested in building full stack web and mobile apps
 - 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on new web projects
-- 📫 How to reach me - sachinj150@gmail.com
+- 📫 How to reach me - srinoid@outlook.com
 
 <!---
 sjambur/sjambur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
